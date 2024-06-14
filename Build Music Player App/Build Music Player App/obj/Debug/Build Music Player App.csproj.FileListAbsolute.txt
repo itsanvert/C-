@@ -1,0 +1,30 @@
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Build Music Player App.exe.config
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Build Music Player App.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Build Music Player App.pdb
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Interop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\AxInterop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.AssemblyReference.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Interop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\AxInterop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.ResolveComReference.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build_Music_Player_App.Form1.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build_Music_Player_App.Properties.Resources.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.GenerateResource.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.CoreCompileInputs.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.pdb
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Build Music Player App.exe.config
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Build Music Player App.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Build Music Player App.pdb
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\Interop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\bin\Debug\AxInterop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.AssemblyReference.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Interop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\AxInterop.WMPLib.dll
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.ResolveComReference.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build_Music_Player_App.Form1.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build_Music_Player_App.Properties.Resources.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.GenerateResource.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.csproj.CoreCompileInputs.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Build Music Player App\Build Music Player App\obj\Debug\Build Music Player App.pdb

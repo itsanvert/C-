@@ -1,0 +1,20 @@
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\bin\Debug\Buid Statement Practical.exe.config
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\bin\Debug\Buid Statement Practical.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\bin\Debug\Buid Statement Practical.pdb
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.csproj.AssemblyReference.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid_Statement_Practical.Form1.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid_Statement_Practical.Properties.Resources.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.csproj.GenerateResource.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.csproj.CoreCompileInputs.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.pdb
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\bin\Debug\Buid Statement Practical.exe.config
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\bin\Debug\Buid Statement Practical.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\bin\Debug\Buid Statement Practical.pdb
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.csproj.AssemblyReference.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid_Statement_Practical.Form1.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid_Statement_Practical.Properties.Resources.resources
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.csproj.GenerateResource.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.csproj.CoreCompileInputs.cache
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.exe
+D:\SBKU_Y2_S1\C#\Excersite\Excersite05_Build Music Play App\Excersite05_Build Music Play App\Buid Statement Practical\Buid Statement Practical\obj\Debug\Buid Statement Practical.pdb
